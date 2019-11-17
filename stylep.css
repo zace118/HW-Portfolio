@@ -8,5 +8,14 @@ body {
 }
 
 .containerMain {
-    background-color: ivory;
+    background-color: white;
+
+}
+
+h1 {
+    color: black;
+}
+
+p1 {
+    color: black;
 }
