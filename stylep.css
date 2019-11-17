@@ -2,9 +2,12 @@ body {
     background-color: #d9d9d9;
 }
 
+.navbar-brand {
+    float:left;
+}
 
 .NavbarButtons {
-    float: right;
+    /* float: right; */
 }
 
 .containerMain {
@@ -14,6 +17,7 @@ body {
 
 h1 {
     color: black;
+    margin-left: 20px;
 }
 
 p1 {
@@ -23,4 +27,16 @@ p1 {
 img {
     width: 25%;
     height: auto;
+    margin-left: 20px;
+    float: left;
+}
+
+.line {
+    width: 90%; 
+    height: 20px;
+}
+
+.aboutmebody {
+    width: 50%;
+
 }
