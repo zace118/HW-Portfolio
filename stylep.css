@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: #d9d9d9;
 }
 
 
@@ -18,4 +18,9 @@ h1 {
 
 p1 {
     color: black;
+}
+
+img {
+    width: 25%;
+    height: auto;
 }
