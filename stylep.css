@@ -6,13 +6,8 @@ body {
     float:left;
 }
 
-.NavbarButtons {
-    /* float: right; */
-}
-
 .containerMain {
     background-color: white;
-
 }
 
 h1 {
@@ -20,23 +15,8 @@ h1 {
     margin-left: 20px;
 }
 
-p1 {
-    color: black;
-}
-
 img {
     width: 25%;
     height: auto;
-    margin-left: 20px;
     float: left;
-}
-
-.line {
-    width: 90%; 
-    height: 20px;
-}
-
-.aboutmebody {
-    width: 50%;
-
 }
